@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "fancy-time": "^1.0.3",
+    "node-fetch": "^2.6.7",
+    "yargs": "^17.6.2"
+  }
+}
